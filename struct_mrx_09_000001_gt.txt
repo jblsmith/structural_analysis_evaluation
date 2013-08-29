@@ -1,0 +1,9 @@
+0.215	Intro
+5.688	Verse
+26.25	Refrain
+45.95	Break
+56.169	Verse
+76.874	Refrain (extended)
+104.517	Break
+137.119	Outro
+176.47	End
